@@ -73,9 +73,9 @@ namespace YiSha.Business.AutoJob
         }
         #endregion
 
-        #region 添加任务计划
+        #region 清理任务计划
         /// <summary>
-        /// 添加任务计划
+        /// 清理任务计划
         /// </summary>
         /// <returns></returns>
         public void ClearScheduleJob()
